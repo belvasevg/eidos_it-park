@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LocalData>
+	<Points>
+		<Point name="start_pos_white">
+			<coord>
+				<Xmm>28.496799226679165</Xmm>
+				<Ymm>38.287108375751387</Ymm>
+				<Zmm>90.02756275029256</Zmm>
+				<RxDeg>-179.93555173154186</RxDeg>
+				<RyDeg>0.0012537757599245015</RyDeg>
+				<RzDeg>-149.20822939785472</RzDeg>
+			</coord>
+			<Configuration>
+				<Params>
+					<RestraintParam>
+						<Name>Bend</Name>
+						<Value>000</Value>
+					</RestraintParam>
+					<RestraintParam>
+						<Name>Revolution</Name>
+						<Value>0;0;0;0;0;0;</Value>
+					</RestraintParam>
+				</Params>
+			</Configuration>
+			<SC>5</SC>
+			<TeachTool>belay31</TeachTool>
+			<DateChanged>2022-11-24T16:30:38</DateChanged>
+		</Point>
+	</Points>
+	<Joints/>
+</LocalData>
